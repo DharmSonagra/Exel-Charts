@@ -1,4 +1,4 @@
-# Exel-Charts
+# Excel-Charts
 ## 📊 Excel Chart Project – Sales Performance Analysis
 
 ### 📌 Project Overview
