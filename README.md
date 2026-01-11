@@ -1,10 +1,4 @@
 # Exel-Charts
-Here is all charts Basically use in any product company for Retrieve data Simply.
-Here is **clean, professional README content** you can directly copy-paste into **GitHub** for your **Excel Chart Project**.
-(It’s written in simple English but sounds professional 👍)
-
----
-
 ## 📊 Excel Chart Project – Sales Performance Analysis
 
 ### 📌 Project Overview
@@ -68,7 +62,7 @@ The data was cleaned and prepared before creating charts.
 ### 📁 Project Outcome
 
 This project demonstrates strong Excel visualization skills and the ability to convert raw data into meaningful business insights.
-*You can see all the charts in  
+*You can see all the charts in - 
 ---
 
 
